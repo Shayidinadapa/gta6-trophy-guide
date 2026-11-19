@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"01-cover.jpg","note":"Cover: checklist with progress, filters, and the missable trophy's guide open beside it.","path":"/?demo&trophy=28","viewport":{"height":800,"width":1280}},{"file":"02-roadmap.jpg","note":"Roadmap to platinum: three stages with times and the trophies in each stage.","path":"/?demo#roadmap","viewport":{"height":800,"width":1280}},{"file":"03-missables.jpg","note":"Missables page with the spoiler setting on: the one potentially missable trophy and what is safe.","path":"/?demo&spoilers=on#missables","viewport":{"height":800,"width":1280}},{"file":"04-detail.jpg","note":"Trophy detail: official description, own-words guide, named sources and the earn button beside the checklist.","path":"/?demo&trophy=37","viewport":{"height":800,"width":1280}}]
